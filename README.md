@@ -43,7 +43,7 @@ Hey! My name is **Diogo Simão da Silva Pereira**, and I'm a **17-year-old Full 
 
 ### 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diogosimaosilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogosimaosilva)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoSimaoPT)
 
 ---
