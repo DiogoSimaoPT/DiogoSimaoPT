@@ -1,115 +1,54 @@
-# 👩🏻‍💻 DiogoSimaoPT
+<div align="center">
+  <h1>Hi there! I'm Diogo Simão da Silva Pereira 👋</h1>
+  <p>
+    <strong>17-year-old Full Stack Developer from Portugal</strong>
+  </p>
+</div>
 
-**`FullStack Developer`**
-
-My name is Diogo Simão da Silva Pereira, I’m 17 years old, Portugal based and currently a Full Stack Developer. I'm planning to go to university to study Software Engineering.
-I’m passionate about technology and always looking to deepen my skills in development, from front-end to back-end.
-
-<p align="left">
-    <a href="https://github.com/DiogoSimaoPT?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="Total Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DiogoSimaoPT?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/DiogoSimaoPT?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DiogoSimaoPT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
 
 ---
 
-### 🤖 Tech
+### About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+Hey! My name is **Diogo Simão da Silva Pereira**, and I'm a **17-year-old Full Stack Developer** based in Portugal. I'm passionate about technology, and I'm always looking to deepen my skills across both **front-end** and **back-end** development. I’m currently preparing for university, where I plan to study **Software Engineering** to expand my knowledge further.
 
-<br/>
-<br/>
+### 💻 Tech Stack
 
-### 📊 Statistics
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS, Sass
+- **Front-End:** React.js
+- **Back-End:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL
+- **ORM:** Prisma
+- **Version Control:** Git
+- **Additional Tools:** GitHub, VS Code, npm
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DiogoSimaoPT&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 🔥 Goals
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSimaoPT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- Continue building strong foundations in Full Stack Development
+- Specialize in **Software Engineering** at university
+- Contribute to open-source projects and connect with other developers
 
-</p>
+### 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diogosimaosilva)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoSimaoPT)
+
+---
+
+<div align="center">
+  <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong>
+  <br>– Cory House
+</div>
