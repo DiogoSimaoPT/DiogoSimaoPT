@@ -39,7 +39,7 @@ Hey! My name is **Diogo Simão da Silva Pereira**, and I'm a **17-year-old Full 
 
 - Continue building strong foundations in Full Stack Development
 - Specialize in **Software Engineering** at university
-- Contribute to open-source projects and connect with other developers
+- Connect with other developers
 
 ### 📫 How to Reach Me
 
