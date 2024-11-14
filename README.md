@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&label=" alt="NPM"/>
 </div>
 
-
 ---
 
 ### About Me
@@ -54,6 +53,8 @@ Hey! My name is **Diogo Simão da Silva Pereira**, and I'm a **17-year-old Full 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoSimaoPT)
 
 ---
+
+<img src="images/image.png" />
 
 <div align="center">
   <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong>
