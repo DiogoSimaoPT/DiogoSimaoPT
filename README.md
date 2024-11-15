@@ -54,8 +54,6 @@ Hey! My name is **Diogo Simão da Silva Pereira**, and I'm a **17-year-old Full 
 
 ---
 
-<img src="images/image.png" />
-
 <div align="center">
   <strong>“Code is like humor. When you have to explain it, it’s bad.”</strong>
   <br>– Cory House
