@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB&label=" alt="Express.js"/>
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&label=" alt="NPM"/>
+     <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+
 </div>
 
 ---
